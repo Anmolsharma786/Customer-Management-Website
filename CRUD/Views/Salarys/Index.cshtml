@@ -1,0 +1,52 @@
+﻿@model IEnumerable<CRUD.Models.Salarys>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.startingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.endingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.salary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.emp_id)
+            </th>
+            <th>
+            <th><a asp-action="Create" class="btn btn-outline-success"><i class="far carousel-fade"></i>Create New</a></th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.startingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.emp_id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.salaryId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.salaryId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.salaryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

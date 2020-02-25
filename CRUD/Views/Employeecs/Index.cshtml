@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CRUD.Models.Employeecs>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobId)
+            </th>
+            <th><a asp-action="Create" class="btn btn-outline-success" ><i class="far carousel-fade"></i>Create New</a></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.fName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EmployeeId"><i class="fa fa-marker fa-lg"></i>Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

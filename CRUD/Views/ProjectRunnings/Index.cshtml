@@ -1,0 +1,52 @@
+﻿@model IEnumerable<CRUD.Models.ProjectRunning>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.projectDeadline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectManager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectId)
+            </th>
+            <th>
+            <th><a asp-action="Create" class="btn btn-outline-success"><i class="far carousel-fade"></i>Create New</a></th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.projectDeadline)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectManager)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProjectId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
