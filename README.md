@@ -31,7 +31,7 @@ which were create under database
   Here is the screenshot of the web site design
   ------
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/2.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(10).png"/>
   
   <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/3.jpeg"/>
   
