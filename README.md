@@ -26,33 +26,46 @@ which were create under database
   
   Here is the screenshot of the design which we created in creatly
   ------ 
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/DesignView.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/ER%20DESIGN.jpeg"/>
   
   Here is the screenshot of the web site design
   ------
   
   <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(10).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/3.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(11).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/4.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(12).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/5.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(13).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/6.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(14).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/Assignment--1/blob/master/d1.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(15).png"/>
   
-   <img height = "700" src = "https://github.com/Anmolsharma786/Assignment--1/blob/master/d2.jpeg"/>
+   <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(17).png"/>
   
-   <img height = "700" src = "https://github.com/Anmolsharma786/Assignment--1/blob/master/d3.jpeg"/>
+   <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(18).png"/>
     
-   <img height = "700" src =  "https://github.com/Anmolsharma786/Assignment--1/blob/master/d4.jpeg"/>
+   <img height = "700" src =  "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(19).png"/>
     
-   <img height = "700" src = "https://github.com/Anmolsharma786/Assignment--1/blob/master/d5.jpeg"/>
+   <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(2).png"/>
+   
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(3).png"/>
   
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(4).png"/>
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/WhatsApp%20Image%202020-02-03%20at%206.27.53%20PM.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(5).png"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(6).png"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(7).png"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(8).png"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentTwo-Asp.Net/blob/master/Screenshot%20(9).png"/>
+  
+
   
   
   
