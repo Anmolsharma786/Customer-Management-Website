@@ -1,10 +1,4 @@
-# AssignmentTwo-Asp.Net
-
-# ANMOL SHARMA -- 200419191
-# JESHAN CHABRA -- 200427309   
-
-
-
+# Asp.Net
 
 Hello,
 
@@ -13,16 +7,14 @@ Today we would like to made a project which must be commonly used by the company
 
 
 
-In this Assignment we created three Tables which are following
+In this Project we have created three Tables -
   * EmployeeTable
   * JobPostingTable
   * ProjectTable
   * Customer
   * Salary
   
-which were create under database
- *  AssignmentTwo
- 
+
   
   Here is the screenshot of the design which we created in creatly
   ------ 
